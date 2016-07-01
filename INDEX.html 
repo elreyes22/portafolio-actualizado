@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="keywords" content"palabra, palabra_dos, etc">
+	<meta name="description" conet="descricion de mi sitio wed para el seo.">
+	<meta name= "autor" content="manuel reyes">
+	<title>Portafolio personal</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+ </head>
+
+ <body >
+ <center><h1>HOJA DE VIDA</h1></center>
+
+ <center><img style="width:80px" src="https://scontent.feoh1-1.fna.fbcdn.net/v/t1.0-9/1499601_620541414669734_266677739_n.jpg?oh=7172ca33195d9a974ad0284571b7e8ad&oe=5809BAC1" id="photo" alt="Computer Man" style="width:48px;height:48px;"></center>
+
+ 
+       
+
+		<center><h2>Datos personales</h2></center>
+
+	
+		<!-- Etiqueta para anidacion o agrupacon de contenidos -->
+		
+	 <center><table>
+	
+		 <tr>
+			<th>NOMBRE</th>
+			<th>DOCUMENTO DE IDENTIDAD</th>
+
+	     </tr>
+
+	     <tr>
+	       <td>MANUEL ENRIQUE REYES PULGARIN</td>
+	       <td>1037637635</td>
+	     </tr>
+
+	     <TR>
+	     <th>FECHA DE NAMIENTO</th>
+		 <th>LUGAR DE NAMIENTO</th>
+
+	     </tr>
+	     <tr>
+	       <td>22/10/1994</td>
+	       <td>TURBO ANTIOQUIA</td>
+	     </tr>
+	     
+	     <tr>
+
+			<th>ESTADO CIVIL</th>
+			<th>EDAD</th>
+		</tr>
+		  
+		  <tr>
+		   <td>SOLTERO</td>
+	       <td>21</td>
+			
+			</tr>
+
+		    <tr>
+		    <th>DIRRECION</th>
+		    <th>TELEFONO</th>
+		    </tr>
+		    <tr>
+		    <td>CLL 56 A SUR 56 A 24 APT 301</td>
+	       <td>3066302-3053230895</td>
+		    </tr>
+		  <tr>
+		   	<th>REDES SOCIALES</th>
+		   </tr>
+		    
+	     <tr> 
+	       
+	     <td><a href=https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1467131706&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fcol125.mail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=1033&id=64855&mkt=en-us&cbcxt=mai.jpg TD> potwor_nel@hotmail.com</a>
+	     </tr>
+
+	     </table ></center>
+
+	   
+	     <center><h3>ESTUDIOS</h3></center>
+
+	     <center><table>
+	     <tr>
+	       <th>EDUCACION PRIMARIA</th>
+	       <th>EDUCACION SEGUNDARIA</th>
+	       </tr>
+	       
+	       <tr>
+	        <td>INSTITUCION EDUCATIVA PRIMITIVO LEAL LA DOCTORA</td>	
+	        <td>INSTITUCION EDUCATIVA PRIMITIVO LEAL LA DOCTORA</td>
+	       	</tr>
+	      
+	       <tr>
+	       	<th>EDUCACION SUPERIOR</th>
+	       	<th>CURSOS</th>
+	       </tr>
+	       
+	       <tr>
+	       	<td>SENA CALATRABA</td>
+	        <td>MANIPULACION  DE ALIMENTOS</td>
+	       </tr>
+	       
+
+	       
+	      <th>IDIOMAS</th>
+	     </tr>
+	       <tr>
+	       
+	       
+	       <td>ESPAÑOL</td>
+	     </tr>
+	    	
+	     </table></center>
+	    
+	      <center><H3>EXPERIENCIA LABORAL</H3></center>
+
+	     <center><TABLE>
+	    
+	     <tr>
+	      <th>LUGAR  Y CARGO</th>
+	      <th>LUGAR  Y CARGO</th>
+	      </tr>
+	      
+	      <tr>
+	       <td>RAIZA. CARGO OPERARIO DE PRODUCUION</td>
+	       <td>DELIBERY SENTER TABACOS S.A.S CARGO INSTALADOR</td>
+	      </tr>
+	      
+	      <tr>
+	      <th>LUGAR  Y CARGO</th>
+	      </tr>
+	     
+	     <tr>
+	     <td>CALZADO LOS HERMANOS S.A.S CARGO OPERARIO DE PRODUCION</td>
+	     </tr>
+
+
+	     </TABLE></center>
+	    
+	     <CENTER><h3>REFERENCIAS FAMILIARES</h3></CENTER>
+
+	     <center><table>
+
+         <tr>
+         	<th>NOMBRE Y CARGO</th>
+         	<th>NOMBRE Y CARGO</th>
+         </tr>
+
+         <tr>
+         <td>Maria Eunice Pulgarin Hernandez
+         Confecciones 3108413382</td>
+         
+         <td>Yarley Reyes Pulgarin Mercaderia
+         3113134712</td>
+
+         </tr>
+         </center></table>
+
+
+
+	      <center><h3>REFERENCIAS PERSONALES</h3></center>
+	    
+	     <center><table>
+	     
+	     <tr>
+	       <th>NOMBRE Y CARGO</th>
+
+	       <th>NOMBRE Y CARGO</th>
+	     </tr>
+	     <tr>
+	   	   <td>Olga Lucia Martinez Comerciante
+	   	   3122616336</td>
+	   	   <td>Tatiana Valencia Trabajo independiente
+	   	   3103862376</td>
+	     </tr>
+
+	     </table></center>
+	     
+	     <form action="">
+	     
+	     <h3>CONTACTO</h3>
+
+	     <input type="text" name="Nombre" placeholder="Nombre">
+	     <input type="text" name="Correo" placeholder="Correo">
+	     <input type="text" name="Telefono" placeholder="Telefono">
+	     <textarea name="mensaje" placeholder="Esciba aqui su mensaje"> </textarea>
+	     <input type="button" value="ENVIAR" id="boton">
+	     	
+	     </form>
+</body>
+</html>

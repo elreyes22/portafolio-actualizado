@@ -1,0 +1,81 @@
+body {
+
+    background-image: url(http://www.fotonat.org/data/media/1/IMG_3596FN.jpg);
+
+    background-size: 200vh 200vh;
+    background-attachment: fixed;
+    margin: 0;
+
+}
+
+form{
+    width: 450px;
+    margin: auto;
+    background: rgb(0,0,0,0,5); 
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top:20px; 
+    border-radius: 20px;
+}
+
+input,textarea{
+    width:100%;
+    margin-bottom: 20px;
+    padding: 7px
+    box-sizing: border-box;
+    font-size:17px;
+    border:none; 
+}
+
+
+textarea{
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100%;
+}
+
+
+#boton{
+    background:red;
+color: #fff
+padding:20px; 
+}
+
+#boton: hover {
+    cursor: pointer;
+
+}
+
+
+
+
+table {
+ /*border-collapse: separate;*/
+ border-spacing:  10px;
+ border: 2.5px solid rgb(42,107,150);
+ font-size: 12px;    
+ margin: 45px;     
+ width: 480px; 
+ text-align: left;   
+ border-collapse: collapse
+
+}
+
+
+th {     
+	font-size: 13px;     
+	font-weight: normal;     
+	padding: 8px;     
+	background: #b9c9fe;
+    border-top: 4px solid #aabcfe;   
+    border-bottom: 1px solid #fff; 
+    color: #039; }
+
+
+    td {    
+    	padding: 8px;     
+    	background: #e8edff;     
+    	border-bottom: 1px solid #fff;
+        color: #669;   
+        border-top: 1px solid transparent; 
+    }
